@@ -1,0 +1,19 @@
+div{
+    padding: 30px;
+    background-color: aquamarine;
+    width: 400px;
+    height: auto;
+    position: relative;
+    text-align: left;
+    margin-left:25%;
+    margin-top:5%;
+}
+h2{
+    text-align: center;
+}
+
+input.form-btn{
+    position: center;
+    background-color:bisque;
+    align-content: center;
+}
